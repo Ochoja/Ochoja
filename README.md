@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ochoja
-- 👀 I’m a Programmer
-- 🌱 I’m a Front end Web Developer
+- 👀 A Software Engineer 
+- 🌱 Specialize in Front end Development
 - 📫 Reach me on https://www.instagram.com/daniel_ochoja/
 
 <!---
