@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Ochoja
-- 👀 A Software Engineer 
-- 🌱 Specialize in Front end Development
-- 📫 Reach me on https://www.instagram.com/daniel_ochoja/
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ochoja)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Ochoja/Ochoja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
