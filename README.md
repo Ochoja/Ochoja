@@ -1,5 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ochoja)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoja&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoja&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Ochoja/Ochoja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
