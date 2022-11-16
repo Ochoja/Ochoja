@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Ochoja)
+<img src="https://komarev.com/ghpvc/?username=Ochoja&style=flat-square&color=blue" alt=""/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoja&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
