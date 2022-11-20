@@ -1,6 +1,5 @@
 [![MasterHead](https://aphebail.sirv.com/banner%20(2).png)](https://github.com/Ochoja)
 
-<img src="https://komarev.com/ghpvc/?Ochoja&style=flat-square&color=blue" alt=""/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoja&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
