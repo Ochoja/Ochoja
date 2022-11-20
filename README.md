@@ -1,4 +1,4 @@
-[![MasterHead](https://aphebail.sirv.com/banner%20(1).png)](https://github.com/Ochoja)
+[![MasterHead](https://aphebail.sirv.com/banner%20(2).png)](https://github.com/Ochoja)
 
 <img src="https://komarev.com/ghpvc/?Ochoja&style=flat-square&color=blue" alt=""/>
 
