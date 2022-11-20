@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+[![MasterHead](https://aphebail.sirv.com/banner%20(1).png)](https://github.com/Ochoja)
 
 <img src="https://komarev.com/ghpvc/?Ochoja&style=flat-square&color=blue" alt=""/>
 
