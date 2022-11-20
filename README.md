@@ -1,6 +1,6 @@
 [![MasterHead](https://aphebail.sirv.com/banner%20(2).png)](https://github.com/Ochoja)
 
-I'm a passionate software developer adept in C and Web Technologies. I specialize in front end web development(Vue) and I'm working towards becoming a full stack software engineer.
+I'm a passionate software developer adept in C and Web Technologies. I specialize in front end web development(Vue) and I'm working towards becoming a full stack software engineer. I've built responsive user interfaces and projects using my programming and UI/UX knowledge and ability. I'm open to working with other developers and learning new technologies.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoja&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
