@@ -5,7 +5,7 @@ I'm a passionate software developer adept in C and Web Technologies. I specializ
 </p>
 <br>
 
-## Stats
+<h2 align="center">Stats</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoja&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
