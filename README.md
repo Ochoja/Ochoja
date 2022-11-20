@@ -4,7 +4,7 @@
 I'm a passionate software developer adept in C and Web Technologies. I specialize in front end web development(Vue) and I'm working towards becoming a full stack software engineer. I've built responsive user interfaces and projects using my programming and UI/UX knowledge and ability. I'm open to working with other developers and learning new technologies.
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoja&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoja&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Ochoja/Ochoja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
