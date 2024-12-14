@@ -1,7 +1,7 @@
-[![MasterHead](https://aphebail.sirv.com/banner%20(2).png)](https://github.com/Ochoja)
-
 <p align="center">
-I'm a passionate software developer adept in C and Web Technologies. I specialize in front end web development(Vue) and I'm working towards becoming a full stack software engineer. I've built responsive user interfaces and projects using my programming and UI/UX knowledge and ability. I'm open to working with other developers and learning new technologies.
+Hi, I’m Daniel Ochoja, a software engineer with a passion for building scalable web applications and creating seamless user experiences. I specialize in full-stack development, leveraging technologies like React.js, Vue.js, and Python for backend development to create dynamic, user-centered solutions.
+
+I enjoy working across the entire software development lifecycle, from designing and implementing front-end interfaces to building robust backend systems. With a strong foundation in frontend technologies (React.js, Vue.js, HTML, CSS, JavaScript) and backend frameworks like Flask and Node.js, I focus on creating performant and maintainable code that delivers results.
 </p>
 <br>
 
