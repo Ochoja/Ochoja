@@ -1,11 +1,39 @@
+<p align="center">
+  <strong>Hi, I'm Daniel Ochoja — Full-Stack Software Engineer 🚀</strong><br>
+  I build scalable web apps and craft seamless user experiences.
+</p>
+
+---
+
 <p>
-Hi, I’m Daniel Ochoja, a software engineer with a passion for building scalable web applications and creating seamless user experiences. I specialize in full-stack development, leveraging technologies like React.js, Vue.js, and Python for backend development to create dynamic, user-centered solutions.
+  I'm a passionate full-stack developer focused on creating dynamic, user-centric solutions that scale. I specialize in modern JavaScript frameworks like <strong>React.js</strong> and <strong>Vue.js</strong>, and I work across both frontend and backend using <strong>Python (Flask)</strong> and <strong>Node.js</strong>.
 </p>
 
 <p>
-I enjoy working across the entire software development lifecycle, from designing and implementing front-end interfaces to building robust backend systems. With a strong foundation in frontend technologies (React.js, Vue.js, HTML, CSS, JavaScript) and backend frameworks like Flask and Node.js, I focus on creating performant and maintainable code that delivers results.
+  From designing sleek interfaces to architecting robust backend systems, I enjoy owning the full software development lifecycle. I write clean, maintainable code and strive to deliver products that are both performant and user-friendly.
 </p>
-<br>
+
+<h3>🧰 Tech Stack</h3>
+
+- 💻 Frontend: React.js, Vue.js, JavaScript, HTML5, CSS3, TailwindCSS
+- 🛠️ Backend: Node.js, Flask, Express, Python
+- ⚙️ Tools & Platforms: Git, GitHub, REST APIs, Vercel, Netlify
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoja&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<!---
+Ochoja/Ochoja is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. Click the Preview link above to check out your changes!
+--->
+```
+
+Would you like help adding badges, a projects section, or social links to round it out?
+
 
 <h2>Stats</h2>
 
