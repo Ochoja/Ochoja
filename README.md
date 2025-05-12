@@ -13,9 +13,9 @@
   From designing sleek interfaces to architecting robust backend systems, I enjoy owning the full software development lifecycle. I write clean, maintainable code and strive to deliver products that are both performant and user-friendly.
 </p>
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3>🛠️ Languages and Tools</h3>
 
-<p align="center">
+<p>
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
