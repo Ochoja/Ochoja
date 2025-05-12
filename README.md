@@ -19,25 +19,9 @@
 - 🛠️ Backend: Node.js, Flask, Express, Python
 - ⚙️ Tools & Platforms: Git, GitHub, REST APIs, Vercel, Netlify
 
----
-
 <h2>📊 GitHub Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoja&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<!---
-Ochoja/Ochoja is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. Click the Preview link above to check out your changes!
---->
-```
-
-Would you like help adding badges, a projects section, or social links to round it out?
-
-
-<h2>Stats</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoja&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Ochoja/Ochoja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
