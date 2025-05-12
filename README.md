@@ -13,8 +13,9 @@
   From designing sleek interfaces to architecting robust backend systems, I enjoy owning the full software development lifecycle. I write clean, maintainable code and strive to deliver products that are both performant and user-friendly.
 </p>
 
-<h3>🛠️ Languages and Tools</h3><p>
-  <p>
+<h3>🛠️ Languages and Tools</h3>
+
+<p>
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
@@ -49,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
 </p>
+
 <h2>📊 GitHub Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoja&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
