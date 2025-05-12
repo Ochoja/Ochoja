@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <strong>Hi, I'm Daniel Ochoja — Full-Stack Software Engineer 🚀</strong><br>
   I build scalable web apps and craft seamless user experiences.
 </p>
@@ -14,7 +14,7 @@
 </p>
 
 <h3>🛠️ Languages and Tools</h3><p>
-  <p align="center">
+  <p>
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
